@@ -5,6 +5,7 @@ but thankfully it is simple enough that most players discover the best strategy 
 Let’s program Tic-Tac-Toe and get playing!
 
 Learn more at https://hyperskill.org/projects/123
+
 Here's the link to the project: https://hyperskill.org/projects/123
 
 Check out my profile: https://hyperskill.org/profile/291057282
